@@ -1,0 +1,9 @@
+#!/bin/bash
+echo "hello world"
+while(1)
+git push
+fi
+if ($var==0)
+git pull
+else
+git push 
